@@ -1,0 +1,45 @@
+{
+  "dropdowns": [
+    {
+      "label": "Select a database",
+      "options": [
+        "PQM",
+        "PQM-Test"
+      ]
+    },
+    {
+      "label": "Select a database collection",
+      "options": [
+        "all_V2",
+        "thesis",
+        "abcd",
+        "abcde"
+      ]
+    },
+    {
+      "label": "Select a production line",
+      "options": [
+        "production_line_1",
+        "production_line_2",
+        "production_line_3",
+        "production_line_4"
+      ]
+    },
+    {
+      "label": "Select a queue",
+      "options": [
+        "services",
+        "default",
+        "gpu1",
+        "gpu2"
+      ]
+    },
+    {
+      "label": "Select a connection string for database",
+      "options": [
+        "mongodb://leon:thesis2024!@localhost:27017/",
+        "..."
+      ]
+    }
+  ]
+}
